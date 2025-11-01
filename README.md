@@ -5,7 +5,7 @@ I’m a **Low Level Software Engineer** and **Cybersecurity Student**. I special
 ## Skills & Expertise:
 - **Languages**: C/C++, C#, Python, Lua, Rust, PHP, Asm (x86/x64), Java, JavaScript
 - **Specialties**: Cheat development, reverse engineering, game development, and cybersecurity
-- **OS**: Windows, Linux/Arch
+- **OS**: Windows, Linux
 
 
 ## Contact:
