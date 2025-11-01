@@ -1,6 +1,6 @@
 # Hi, I'm ahkyk 👋
 
-I’m a **Low Level Software Engineer** and **Cybersecurity Student**. I specialize in **Reverse Engineering**, **Expolit Development**, and **Red Teaming**. 
+I’m a **Low Level Software Engineer** and **Cybersecurity Analyst**. I specialize in **Reverse Engineering**, **Exploit Development**, and **Red Teaming**. 
 
 ## Skills & Expertise:
 - **Languages**: C/C++, C#, Python, Lua, Rust, PHP, Asm (x86/x64), Java, JavaScript
